@@ -24,11 +24,11 @@ SoundSellers is a modern and visually appealing e-commerce website template desi
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/mehedi-hasan1102/Sound
+    git clone https://github.com/mehedi-hasan1102/SoundSellers
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd Sound
+    cd SoundSellers
     ```
 3.  Open `index.html` in your web browser.
 
