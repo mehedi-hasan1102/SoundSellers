@@ -1,6 +1,6 @@
 # SoundSellers
 
-SoundSellers is a modern and visually appealing e-commerce website template designed for selling audio equipment. This project is built with HTML, CSS, and JavaScript, and it uses Tailwind CSS for styling.
+SoundSellers is a modern and visually appealing e-commerce website template designed for selling audio equipment. This project is built with HTML, CSS, and JavaScript, and it uses Tailwind CSS for styling..
 
 ## Features
 
